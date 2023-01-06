@@ -29,13 +29,13 @@ Para instalar este proyecto en un entorno local (su computador) abra la `termina
 Para este paso es necesario tener instalado [Git](https://git-scm.com/).
 
 ```shell
-git clone https://github.com/AlejandroM12/Ecommerce-React.git
+git clone https://github.com/AlejandroM12/gym-ts.git
 ```
 
 Para ingresar a la carpeta de la aplicación usamos:
 
 ```shell
-cd ecommerce-React
+cd gym-ts
 ```
 
 **2. Instalamos las dependencias**\
