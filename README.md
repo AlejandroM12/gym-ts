@@ -17,8 +17,8 @@ Para modificar este proyecto es necesario saber las tecnologias basicas de la we
 - [Framer-motion](https://www.framer.com/motion/) v"^8.0.1"\
   Framer Motion es una biblioteca de movimiento lista para producción para React de Framer .
   Es simple pero poderoso, lo que le permite expresar interacciones de usuario complejas con un marcado semántico sólido.
-- [React-Icons](https://react-icons.github.io/react-icons/) v"^4.3.1"\
-  Es una pequeña librería que te permite añadir íconos (desde distintas librerías de íconos) a tus aplicaciones hechas con React. Te entrega los íconos en tu aplicación como componentes, de tal manera que se hace más fácil trabajar con ellos.
+- [React-hook-form](https://react-hook-form.com/) v"^7.41.5"\
+  React Hook Form nos ofrece la capacidad de desarrollar nuestros formularios de manera no controlada, independizando todo cambio que pueda producirse en cada uno de los elementos del formulario, evitando con ello renders innecesarios, haciendo uso de hooks y con una sencillez tota
 - [React-anchor-link-smooth-scroll](https://www.npmjs.com/package/react-anchor-link-smooth-scroll) v"^1.0.2"\
   Componente React para enlaces de anclaje que utiliza el polyfill smoothscroll.
 
