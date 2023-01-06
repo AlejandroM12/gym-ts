@@ -1,6 +1,6 @@
 # Aplicación Fitness
 
-[![image cover](/public/evogym.png)]
+![image cover](/public/evogym.png)
 
 ## :nut_and_bolt: Tecnologias
 
